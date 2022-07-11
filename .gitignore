@@ -1,0 +1,5 @@
+# build reactjs
+/build
+
+# node-modules
+/node-modules
